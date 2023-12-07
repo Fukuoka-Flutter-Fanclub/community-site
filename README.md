@@ -1,16 +1,17 @@
 # fukuoka_flutter_fanclub
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## flavors
 
-A few resources to get you started if this is your first Flutter project:
+There are 2 flavors on build this application. You can build using thease flavors like `flutter run --flavor dev`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| flavor     | App Name                    |  description      |
+|------------|-----------------------------|-------------------|
+| dev        | Fukuoka_Flutter_Fanclub_dev |  for development. |
+| prod       | Fukuoka_Flutter_Fanclub     |  for production.  |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## setup firebase credentials
+
+Start these commandline
+
